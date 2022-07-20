@@ -15,3 +15,4 @@ In the project directory start the project with:
 ~~~cmd
 npm start
 ~~~
+Then go to *http://localhost:npmport* (This is usually done automatically)
